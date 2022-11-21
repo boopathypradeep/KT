@@ -1,0 +1,10 @@
+Staging:
+=======
+where snapshot of project is taken
+when git staged --> index is created in .git folder where path is stored
+                --> in objects of .git contains details of file content 
+Commit:
+=======
+Where Snapshot history is stored
+	-->logs folder is created in .git folder and contains the details of the commit
+	-->in object folder of .git, file content will be stored   
